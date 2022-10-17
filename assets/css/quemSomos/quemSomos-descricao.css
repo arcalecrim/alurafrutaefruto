@@ -1,0 +1,24 @@
+.quem-somos__descricao {
+    color: #595959;
+    font-family: "roboto";
+    font-weight: 100;
+    margin: 1rem 0;
+}
+
+@media screen and (min-width: 0px) {
+    .quem-somos__descricao {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .quem-somos__descricao {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .quem-somos__descricao {
+        font-size: 1.75rem;
+    }
+}
